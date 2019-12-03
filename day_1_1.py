@@ -1,3 +1,5 @@
+# Day 1 part one
+
 import math
 
 def getFuel(mass):
